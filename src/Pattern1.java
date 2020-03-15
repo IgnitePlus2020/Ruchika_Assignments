@@ -16,3 +16,15 @@ public class Pattern1 {
         }
     }
 }
+
+/* Output
+
+Enter the value of n:
+5
+*
+* *
+* * *
+* * * *
+* * * * *
+
+ */
